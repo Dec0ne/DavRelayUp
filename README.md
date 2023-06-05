@@ -40,6 +40,26 @@ General Options:
     -h  (--Help)                     Show help
 ```
 
+### Known Issues
+
+If DavRelayUp gets stuck at one of these stages - try using a different port by specifying [-p] flag
+```
+DavRelayUp - Relaying you to SYSTEM, again...
+
+[+] WebClient Service started successfully
+[+] Starting Relay Server on Port 55555
+[+] Coercing System Authentication
+```
+```
+DavRelayUp - Relaying you to SYSTEM, again...
+
+[+] WebClient Service started successfully
+[+] Starting Relay Server on Port 55555
+[+] Coercing System Authentication
+[+] WebDAV Request: No Authorization header
+[+] WebDAV Response: Sending 401 Unauthorized with "WWW-Authenticate: NTLM" header
+```
+
 ## Examples
 
 https://github.com/Dec0ne/DavRelayUp/assets/54464773/a5ca44d6-3510-4fb2-ba6f-daff64aa2c34
