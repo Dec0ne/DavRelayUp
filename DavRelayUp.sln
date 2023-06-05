@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavRelayUp", "DavRelayUp\DavRelayUp.csproj", "{9ED956A6-2998-4F6D-898C-E39CF1F9FAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED956A6-2998-4F6D-898C-E39CF1F9FAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED956A6-2998-4F6D-898C-E39CF1F9FAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FBDE63-89AF-4B81-A6D1-8F102E947121}
+	EndGlobalSection
+EndGlobal
